@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/physics-task9/static/css/main.e6c13ad2.css",
-    "main.js": "/physics-task9/static/js/main.a92dc7cf.js",
+    "main.js": "/physics-task9/static/js/main.d56bd83e.js",
     "static/js/453.b25e3508.chunk.js": "/physics-task9/static/js/453.b25e3508.chunk.js",
     "index.html": "/physics-task9/index.html",
     "main.e6c13ad2.css.map": "/physics-task9/static/css/main.e6c13ad2.css.map",
-    "main.a92dc7cf.js.map": "/physics-task9/static/js/main.a92dc7cf.js.map",
+    "main.d56bd83e.js.map": "/physics-task9/static/js/main.d56bd83e.js.map",
     "453.b25e3508.chunk.js.map": "/physics-task9/static/js/453.b25e3508.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a92dc7cf.js"
+    "static/js/main.d56bd83e.js"
   ]
 }
